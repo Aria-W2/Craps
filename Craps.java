@@ -87,3 +87,30 @@ public class Craps
         }
     }
 }
+
+/*
+
+COMMENTS FROM THE INSTRUCTOR:
+
+This is a great little program, Aria, and it implements the rules of the
+game of Craps perfectly. I especially like the `while`-loops you set up
+to manage multiple games and the multiple die rolls that occur in the
+second part of the game.
+
+You didn't include your name or date in the JavaDocs, so it wasn't clear
+at first who had written this program. Fortunately your name showed up
+in the git log so I was able to figure out that it was you!
+
+ALSO, the handout specifically mentioned writing the program so that
+someone playing the game could, for Yes or No questions, just hit the
+[Enter] key to indicate a default value. This makes the game run even
+more smoothly, and it's a very usuful tool. You should check that out
+and make sure you incorporate it into future projects, where appropriate.
+
+Otherwise, *very* nice work, Aria. I'm looking forward to seeing what
+you come up with in our future projects!
+
+SCORE: 48/50
+
+*/
+
